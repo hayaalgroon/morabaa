@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>تم إرسال الرسالة بنجاح - غراب</title>
+    <meta name="description" content="تم إرسال رسالتك بنجاح، سنتواصل معك قريباً">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="img/favicon/favicon.ico" sizes="any">
+    <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/loaders/loader.css">
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'URW-Geometric-Arabic', sans-serif;
+            background: linear-gradient(135deg, #141414 0%, #475e6c 100%);
+            color: #eac8be;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        
+        .success-container {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 30px;
+            padding: 4rem 3rem;
+            max-width: 600px;
+            width: 90%;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+        }
+        
+        .success-icon {
+            font-size: 5rem;
+            color: #4CAF50;
+            margin-bottom: 2rem;
+            animation: bounceIn 1s ease-out;
+        }
+        
+        .success-title {
+            font-family: 'Boharat-Zataar', serif;
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            color: #eac8be;
+            animation: fadeInUp 1s ease-out 0.3s both;
+        }
+        
+        .success-message {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 3rem;
+            color: #f0d8d0;
+            animation: fadeInUp 1s ease-out 0.6s both;
+        }
+        
+        .countdown {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            color: #eac8be;
+            animation: fadeInUp 1s ease-out 0.9s both;
+        }
+        
+        .countdown-number {
+            font-weight: bold;
+            color: #4CAF50;
+            font-size: 2rem;
+        }
+        
+        .redirect-info {
+            font-size: 1rem;
+            color: #d4b5a8;
+            animation: fadeInUp 1s ease-out 1.2s both;
+        }
+        
+        .manual-link {
+            display: inline-block;
+            margin-top: 2rem;
+            padding: 1rem 2rem;
+            background: linear-gradient(135deg, #eac8be 0%, #d4b5a8 100%);
+            color: #141414;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            animation: fadeInUp 1s ease-out 1.5s both;
+        }
+        
+        .manual-link:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+            background: linear-gradient(135deg, #f0d8d0 0%, #eac8be 100%);
+        }
+        
+        @keyframes bounceIn {
+            0% {
+                transform: scale(0.3);
+                opacity: 0;
+            }
+            50% {
+                transform: scale(1.05);
+            }
+            70% {
+                transform: scale(0.9);
+            }
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+        
+        @keyframes fadeInUp {
+            0% {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .success-container {
+                padding: 3rem 2rem;
+            }
+            
+            .success-title {
+                font-size: 2rem;
+            }
+            
+            .success-icon {
+                font-size: 4rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="success-container">
+        <div class="success-icon">
+            <i class="ph ph-check-circle"></i>
+        </div>
+        
+        <h1 class="success-title">تمت ياغراب</h1>
+        
+        <p class="success-message">
+            الفزعه قريب بتجيك
+        </p>
+        
+        <div class="countdown">
+            سيتم الانتقال للصفحة الرئيسية خلال
+            <span class="countdown-number" id="countdown">5</span>
+            ثانية
+        </div>
+        
+        <p class="redirect-info">
+            أو يمكنك الانتقال يدوياً للصفحة الرئيسية
+        </p>
+        
+        <a href="index.html" class="manual-link">
+            العودة للصفحة الرئيسية
+        </a>
+    </div>
+
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web@2.0.3/src/regular/style.css"></script>
+    
+    <script>
+        // العداد التنازلي
+        let countdown = 5;
+        const countdownElement = document.getElementById('countdown');
+        
+        const timer = setInterval(() => {
+            countdown--;
+            countdownElement.textContent = countdown;
+            
+            if (countdown <= 0) {
+                clearInterval(timer);
+                // الانتقال التلقائي للصفحة الرئيسية
+                window.location.href = 'index.html';
+            }
+        }, 1000);
+        
+        // إيقاف العداد عند النقر على الرابط اليدوي
+        document.querySelector('.manual-link').addEventListener('click', () => {
+            clearInterval(timer);
+        });
+    </script>
+</body>
+
+</html>

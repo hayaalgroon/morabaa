@@ -1,0 +1,329 @@
+/**
+ * ملف تحسينات الأداء
+ * يحتوي على أنماط لتحسين سرعة الموقع
+ */
+
+/* تحسينات الأداء للعناصر المتحركة */
+.loading__item,
+.loading__fade,
+.animate-on-scroll {
+  will-change: transform, opacity;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* تحسينات الأداء للفيديوهات */
+.gallery__video,
+.main-video,
+video {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للصور - إزالة will-change لتجنب مشاكل التمرير */
+img {
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للقوائم */
+.menu__list,
+.gallery__item,
+.services__item {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للتمرير */
+.smooth-scroll {
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* تحسينات الأداء للخطوط */
+@font-face {
+  font-family: 'Boharat-Zataar';
+  src: url('../fonts/Boharat-Zataar_Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  font-preload: true;
+}
+
+/* تحسينات الأداء للرسوم المتحركة */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 30px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+  will-change: transform, opacity;
+}
+
+/* تحسينات الأداء للعناصر المخفية */
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
+/* تحسينات الأداء للصور الخلفية */
+.background-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* تحسينات الأداء للفيديوهات الخلفية */
+.video-background video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+/* تحسينات الأداء للقوائم */
+.menu__list {
+  contain: layout style;
+}
+
+.menu__item {
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للصور في المعرض */
+.gallery__image {
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للخدمات */
+.services__image {
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للأعمال */
+.works-stack__inner {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للشهادات */
+.testimonials-card {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للأزرار */
+.btn {
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للروابط */
+a {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للنصوص */
+p, h1, h2, h3, h4, h5, h6 {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للقوائم */
+ul, ol {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للجداول */
+table {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للنماذج */
+form {
+  contain: layout style;
+}
+
+input, textarea, select {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للقوائم المنسدلة */
+.dropdown {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للشريط الجانبي */
+.sidebar {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للهيدر */
+.header {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للفوتر */
+.footer {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للقسم الرئيسي */
+.main {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للأقسام الداخلية */
+.inner {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للكتل */
+.block {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للعناصر */
+.item {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للبطاقات */
+.card {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للصور */
+.picture {
+  contain: layout style paint;
+}
+
+/* تحسينات الأداء للرموز */
+.icon {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للخلفيات */
+.background {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للظلال */
+.shadow {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للحدود */
+.border {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للهوامش */
+.margin {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للتباعد */
+.padding {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للمواقع */
+.position {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للأحجام */
+.size {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للألوان */
+.color {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للخطوط */
+.font {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للمحاذاة */
+.align {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للعرض */
+.display {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للرؤية */
+.visibility {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للشفافية */
+.opacity {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للتحويلات */
+.transform {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للانتقالات */
+.transition {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للرسوم المتحركة */
+.animation {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للتمرير */
+.scroll {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للتفاعل */
+.interaction {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للاستجابة */
+.responsive {
+  contain: layout style;
+}
+
+/* تحسينات الأداء للطباعة */
+@media print {
+  * {
+    contain: layout style;
+  }
+}
+
+/* تحسينات الأداء للأجهزة المحمولة */
+@media (max-width: 768px) {
+  .mobile-optimized {
+    contain: layout style;
+  }
+}
+
+/* تحسينات الأداء للأجهزة اللوحية */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .tablet-optimized {
+    contain: layout style;
+  }
+}
+
+/* تحسينات الأداء لأجهزة الكمبيوتر */
+@media (min-width: 1025px) {
+  .desktop-optimized {
+    contain: layout style;
+  }
+}
