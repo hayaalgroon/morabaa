@@ -152,33 +152,33 @@
   --_animspeed-slow: 0.6s;
   --_animbezier: cubic-bezier(0.23, 0.65, 0.74, 1.09);
   /* light color scheme */
-  --base--light: #eac8be;
+  --base--light: #F8F2ED;
   --base-rgb--light: 234,200,190;
   --base-shade--light: #d4b5a8;
   --base-tint--light: #f0d8d0;
-  --stroke-controls--light: #475e6c;
-  --stroke-elements--light: #475e6c;
+  --stroke-controls--light: #43185D;
+  --stroke-elements--light: #43185D;
   --font-weight-base--light: 400;
   --font-weight-medium--light: 600;
-  --t-bright--light: #475e6c;
-  --t-medium--light: #475e6c;
-  --t-muted--light: #475e6c;
+  --t-bright--light: #43185D;
+  --t-medium--light: #43185D;
+  --t-muted--light: #43185D;
   --t-opp-bright--light: #ffffff;
   --t-opp-medium--light: #ffffff;
   --t-opp-muted--light: #ffffff;
   --neutral-bright--light: #000000;
   /* dark color scheme */
-  --base--dark: #475e6c;
+  --base--dark: #43185D;
   --base-rgb--dark: 71,94,108;
   --base-shade--dark: #3a4f5a;
   --base-tint--dark: #5a6d7a;
-  --stroke-controls--dark: #eac8be;
-  --stroke-elements--dark: #eac8be;
+  --stroke-controls--dark: #F8F2ED;
+  --stroke-elements--dark: #F8F2ED;
   --font-weight-base--dark: 300;
   --font-weight-medium--dark: 500;
-  --t-bright--dark: #eac8be;
-  --t-medium--dark: #eac8be;
-  --t-muted--dark: #eac8be;
+  --t-bright--dark: #F8F2ED;
+  --t-medium--dark: #F8F2ED;
+  --t-muted--dark: #F8F2ED;
   --t-opp-bright--dark: #ffffff;
   --t-opp-medium--dark: #ffffff;
   --t-opp-muted--dark: #ffffff;
@@ -277,11 +277,11 @@
 }
 
 /* Logo switching based on color scheme */
-[color-scheme=dark] img[src*="logo.svg"] {
+[color-scheme=dark] img[src*="logo.png"] {
   display: block;
 }
 
-[color-scheme=light] img[src*="logo.svg"] {
+[color-scheme=light] img[src*="logo.png"] {
   display: none;
 }
 
@@ -296,7 +296,7 @@
 
 /* Color switcher button styling */
 [color-scheme=light] .color-switcher {
-  background-color: #475E6C !important;
+  background-color: #43185D !important;
 }
 
 /* ------------------------------------------------*/
@@ -4400,13 +4400,13 @@ form textarea:required:valid {
   transition: all 0.3s ease-in-out;
 }
 .menu__link.active {
-  color: #475e6c !important;
+  color: #43185D !important;
   background-color: #f0d8d0 !important;
 }
 
 /* تنسيق خاص للأيقونات في القائمة النشطة على الجوال */
 .menu__link.active i {
-  color: #475e6c !important;
+  color: #43185D !important;
 }
 
 /* تحسينات إضافية للقائمة النشطة */
@@ -4441,7 +4441,7 @@ form textarea:required:valid {
   font-family: "URW-Geometric-Arabic", var(--_font-default);
 }
   .menu__link.active {
-    color: #475e6c !important;
+    color: #43185D !important;
     background-color: transparent !important;
   }
   .menu__link.active .menu__caption {
@@ -4452,7 +4452,7 @@ form textarea:required:valid {
   
   /* تنسيق خاص للأيقونات في القائمة النشطة */
   .menu__link.active i {
-    color: #475e6c !important;
+    color: #43185D !important;
   }
 }
 @media only screen and (min-width: 1400px) {
