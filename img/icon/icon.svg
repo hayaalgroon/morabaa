@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 501 501">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #475e6c;
+      }
+
+      .st0, .st1 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: none;
+        stroke-width: 3.0966066px;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x=".5" y=".5" width="500" height="500" rx="96.1729964" ry="96.1729964"/>
+  <g>
+    <g>
+      <path class="st1" d="M452.3410654,65.2623648c4.025243,5.0722453,8.3845981,10.2150927,9.24559,17.1039813l-40.4952195-4.5557118c1.118053-4.8507096,5.5708619-5.0205695,9.0888523-6.6298368,3.4251535-1.5668163,7.5830488-1.5436,10.1806048-4.9866985,2.869702-3.8038195,9.0570842-4.6151544,11.9801724-.9317342ZM413.9335417,99.4840384c-1.368637,1.0514044-4.023084.7762021-4.8888986-.9700634-1.9017695-3.8357278-5.9620893-4.8714584-8.7069899-7.5423923l30.8776087-.5061871c-5.1190703,4.2040193-12.02167,4.9777821-17.2817202,9.0186428ZM423.534273,133.3099422c1.4424916,3.3205402,2.3797214,6.7623488,3.2595555,10.2021387l4.9276204,14.7828052c-2.4632214-4.6610542-3.6326137-9.7197286-4.9276204-14.7828052l-3.9751374-11.9254403c-1.4558662-3.6254357-2.6195946-7.3817852-3.7247496-11.1741929l-6.6077421-19.8232543c2.8917967,6.3675885,4.6630449,13.1497609,6.6077421,19.8232543l3.7247496,11.1741929c.231854.577406.4678298,1.1529615.7155819,1.7233017ZM372.9712214,82.3353069c7.8871312-8.1735209,16.4185412-15.6476384,24.7929051-23.3002799,5.1238089-4.6822796,11.4376188-4.8943102,17.1969304-3.7262637,6.2545355,1.2684819,12.6000293,2.5154299,18.8406295,4.0538708,2.9727451.732938,5.5708619,1.6445403,8.0435604,3.2622753l-29.0481236,9.8887474,1.7138525,4.2846033c-.5742096-1.4260888-1.1456994-2.8549535-1.718535-4.2830051l-42.3200221,14.4068029c.5480492-1.6827854,1.1917113-3.2321895,2.4988028-4.586751ZM16.645456,433.6623732,177.9769801,354.0378234c-13.6715937,12.8191817-26.6107541,26.4161077-40.8333692,38.6520514-1.966876,1.6921504-3.9147976,2.9507626-6.6053588,2.5020273l84.0275896-76.4347272c-12.2273637,11.730093-24.2397808,23.7015172-36.5888616,35.2806485ZM421.4289748,222.7763486c-20.7289403,16.3983251-46.0426469,33.8682244-66.7745593,50.2642223-9.8054717,7.7547313-19.6226357,15.560213-29.7627522,22.9054355-4.1276413,2.989933-7.5508881,6.2122247-9.7979573,11.0745424-1.5790693,3.4169381-4.2370773,7.1772131-9.4190109,6.1970276-2.5508151-.4824942-4.2219362,1.3849837-5.4960259,3.0594135-2.4211069,3.1820558-5.5382526,3.5297949-9.1773713,3.56661-6.6492678.0671813-13.0378855,2.4850918-19.7421657,2.4827926-6.9179089-.0023272-13.6580509,1.1068935-20.798561.5064394-9.0354101-.7597994-17.8101141-2.9022832-26.7896706-3.4682774-2.796296-.1762528-5.0945923-1.3046241-7.5850396-2.1450635.5409834-7.6651749,3.6043224-14.7736365,5.1177806-22.2416414.6267546-3.0925275.559433-5.9004036-1.0697138-8.6168447l9.055486-3.2591069M332.1057756,246.0619458,229.4950382,282.9919012l100.9851235-36.3448947M309.4141382,344.9606405c-4.4415373-7.3015378-13.0970835-16.1671228-11.3027514-23.1834416l24.8033076,24.2971205c-7.7349918,10.3862985-7.3338386,9.0239702-13.5005562-1.1136789ZM324.9153001,343.81359c-4.4966057-1.9090877-2.9966343-5.5363179-2.5283559-8.8579516.5912853-4.1940375,3.2660605-7.7846768,4.2378343-11.8695868l.3152699-3.8226897c.115156,1.3381307-.0249266,2.6022104-.3152699,3.8226897l-1.7094785,20.7275384ZM332.6832344,356.5809597l-6.0625712-12.0080751c5.4431248,1.4432188,6.4759494,6.2387255,6.0625712,12.0080751ZM321.3883933,360.764759c8.4437883-3.3807959,15.0024903-.2099837,16.5241359,8.6395843.5527598,3.2148614,1.7706314,5.9418452,3.2921367,8.5233068,1.9214529,3.2600322,2.886273,6.0151109-.0605922,9.1936619-3.7212167,4.0138031-.6042112,8.1337337.8994333,11.5385029,3.9073953,8.8480539,4.2128516,9.4051597-.8752357,16.7009775-6.4594161.0951081-12.4007846,2.9676981-18.7839347,3.1158559l-.9478285-54.0261418c-1.7288253-3.7917627-3.4514821-7.5871425-5.3904313-11.2666373M344.9825858,386.0804783c5.6978783.3763948,6.9644536,5.5285791,8.9475641,9.1999426.3385422.6267546.672458,1.2548269,1.0062617,1.8807403l12.4364221,13.8443136c.295923.1218573.5963884.239761.9070599.3488045,2.0121308.7061889,2.0737604,2.6934211,3.0378515,4.0427113l.4929247.5487222c-.1901601-.164841-.3509915-.3500943-.4929247-.5487222l-3.9449114-4.3915158c-6.3621209-2.6200432-9.3938039-8.1389489-12.4364221-13.8443136l-9.9538258-11.080683ZM357.3114701,404.8095128,381.7644311,418.391466l-17.4347006-1.0896495c-6.9311153,1.747303-13.3719207,2.9102054-20.4140982-.7401009l20.4140982.7401009c.3244947-.0817896.6478398-.1652896.9686895-.2520421,5.7425443-1.5527968,10.2804234-.6485969,15.3002079.91292.3908909.1216049.7728655.3007177,1.1658033.4287716l1.3627488.0851823c-.4861112.1341383-.9310893.055461-1.3627488-.0851823ZM319.7105988,308.4339079l-7.4500601,6.2737422c2.3401585,2.5091492,5.3783465,2.7119268,8.5861421,3.1707001,4.4628749.6383346,8.7929854-.1502887,13.180043-.139662,8.6052086.020889,17.2114546-.0684991,25.8151771.0461521,3.0555441.0407125,5.4106754-.6784023,7.6546322-3.0184486,7.4305169-7.7485066,15.0884858-15.280889,22.7328557-22.8215429,3.678962-3.6291088,8.5401302-6.2132902,10.1006938-11.660276.4292763-1.4984573,1.3327191-2.5213461,2.493195-3.590359,5.0985739-4.6967477,11.6030485-7.3047062,14.5552691-15.0075093,4.5942934-11.9871541,10.9606482-23.3365623,16.3727256-35.0537854,2.5254118-5.4676505,6.4166567-10.6402192,3.5382626-17.2128285l-117.5789361,99.0138173s-1.3012984,1.09583-2.6025967,2.1916599c3.7392102-2.8016653,8.0068987-5.9993018,8.0068987-5.9993018,4.542825-3.403787,71.9575319-22.9679594,75.2151818-24.3416933M32.8950179,420.2493674,14.1145205,437.9183914c-3.3191762-6.0657744,9.1969926-9.0505321,14.7255997-13.1533869,1.0844343-.8047458,8.1849668-7.7074486,9.2638214-8.5195967l277.1009388-250.3438494c1.066938-1.2655659,2.135362-2.5298419,3.2085807-3.7898561,4.3400643-5.0955737,7.5777494-11.152687,13.0784859-15.257813,5.8694206-4.3802441,11.4837148-8.8434835,11.7200551-17.2032672.1123801-3.9738757,2.7100202-7.2073269,4.5028024-10.6210966,4.1407635-7.8846637,7.6595671-16.0851581,12.1265357-23.8025696,2.1465776-3.7085992,5.8043983-6.8434655,9.5391017-5.7910798,6.3632986,1.7931186,12.2803573.3050637,18.2838321-.4339027,3.9015072-.480223,6.9930813-.5244124,9.1300415,3.1885048l-36.844689,33.2869393,49.4338474-22.7895777c-5.0430287,6.1421274-15.7174075,6.5768143-22.2850259,10.1110113-10.113115,5.4421912-20.3732943,10.6366582-30.6314548,15.8249287l-12.8252942,11.586842,89.7548527,55.9205932,8.4486952-3.2088891c-2.9622305,4.4535379-.9435105,10.3266596-4.8616448,14.8528465-2.6323243,3.0408237-12.3675575,9.0343255-15.2407924,8.4044866-8.860391-1.9422017-9.6125647-1.8843943-17.3469396.5611065-12.362231,3.9087973-24.6551498,8.0441773-36.9299554,12.2112413-8.9430218,3.036001-17.7587467,6.4377139-26.8499263,9.0517288-3.6232206,1.0418151-7.7672366,1.350636-9.7057091,5.5005682-.0132344.0284315-.7684073.7510232-1.442071.5528439-7.129631-2.0973131-12.9065511,2.6297447-19.1495906,4.3419149-7.1795403,1.9689789-14.2733936,4.7103466-21.3508441,7.2686481-16.4605436,5.9500325-33.3396805,10.6824178-49.6528233,17.0947284-2.3077174.907116-5.3451484,1.3221765-8.0448222.1379516l103.2637364-39.2203728c-.3209899-2.0858733-.6609621-4.177102-.5764246-6.3394655.3068863-7.8499796.7812772-15.6930896,1.272884-23.5355827l.3058208-56.2714726-20.3312639,18.3680611c-8.8187812,10.4607138-17.4374204,21.0975123-26.0639666,31.7106739-6.6581,8.1914378-13.4456839,16.3034974-19.9424198,24.6411303-10.6901846,13.719316-22.0192085,26.9283232-33.0518047,40.3710911-1.3848716,1.6874118-2.9011897,3.7366382-3.6127901,5.3265585-3.3410367,7.4646684-8.6755583,13.2061192-14.4973126,18.53722-2.8689169,2.627109-7.302407,2.8097828-10.1689686,6.0493745-2.0886772,2.3604306-4.3805245,3.9956619-4.6214071,7.6850545-.1752434,2.6836075-2.4713246,5.0405052-4.4033482,7.0690669-11.073477,11.627162-20.5326116,24.623606-31.2608731,36.5578505-10.3198181,11.4798454-19.5672588,23.907968-29.975007,35.3343992-2.9228919,3.2090574-5.2415725,6.8790469-8.0896284,10.1326862-1.5421701,1.761743-2.6669524,3.5943966-2.0333844,6.0861055.2577901,1.0138322-.2071237,1.7698743-.971213,2.5501141-12.8608756,13.1329095-25.095193,26.8659926-38.0638223,39.8903073-2.4124429,2.4228173-5.2780512,4.5944617-8.1027507,6.540701-4.437023,3.0571423-9.6462666,1.6338574-14.6015614,1.1405963-.9678483-.0963418-1.5550119-.978419-2.5292811-1.0322258-11.339174-.6258853-22.6361775-1.7777813-33.9066841-3.1022009-5.1475579-.6048842-12.6632011,1.1538084-15.1941365-3.4716701M431.7214489,158.2948861l11.6423591,31.8899829c-12.6924085,2.5270214-8.7743114-21.2930559-11.6423591-31.8899829ZM431.8279409,138.1441089c-1.1397551,1.2537895-2.4894098,1.5615169-3.6498296,2.434117l5.1164429-50.1128303c-.0206647,2.6208003,10.0166528,3.462922,11.5930865,5.0567117,3.1882525,3.2233011,6.39316,6.4303958,9.6157602,9.6193492,3.9365558,3.8954788,3.2462931,6.9425832-2.0126355,9.6512295-3.0653017,1.5787889-4.9912688,4.5076811-7.0391774,7.1061624-4.3806647,5.5584967-8.8598022,11.0049778-13.6236471,16.2452605ZM442.6766559,194.0413565c4.1098457-26.2575598,9.6399622-53.5892613,13.7498079-79.8468212.7916584,2.2833325.0668561,5.7193716.6502689,8.1609959,6.9336408,29.0176266-5.1446177,55.9675348-14.4000768,71.6858252ZM472.7149486,104.6003328c-.5648165.1161934-1.1313434.2250686-1.6984031.3313362l-13.4794148,3.7565738c1.5951387-6.694814,8.8761209-2.8938996,13.4794148-3.7565738l14.0767214-2.9382402c-4.6391838,3.555815-7.0402358,1.5088708-12.3783184,2.6069039ZM433.1078773,89.1059833c7.6003769.402443,14.4196167-4.130333,21.8350487-5.0920128,3.1719057-.4113033,6.018055-.6569805,8.6063582.4854102,5.5920032,2.4681002,10.709223,5.9239563,16.7118286,7.6263409,1.4579971.4135184,2.9650064,1.9626982,4.090041,3.4013204.9284256,1.187169,1.9612121,2.1007059,3.0859103,2.7731359l-54.3291868-9.1941947"/>
+      <path class="st1" d="M433.9018134,195.175493c-.0257958-.0164869-.0524328-.0328056-.0780604-.0492925-10.5907024-6.8145574-21.3938839-13.3268829-31.8555511-20.2951778-18.4826002-12.3108917-37.4614336-23.8477123-55.8431496-36.3024999l-7.236936,6.5381494c.8490193,1.3521501.7223393,2.9491363.7592666,4.6217996.3864047,17.5067327-.792689,34.9475458-1.8861238,52.3914152l-.161252,29.6717658,96.3018064-36.57616Z"/>
+      <path class="st1" d="M72.7498725,390.5169405c-10.9940707,7.6246305-21.4392509,15.9668618-32.1149954,24.0033845l-5.8432042,5.2789765,42.7011275-31.1075281c-1.5018781.565882-3.3305781.8456826-4.7429279,1.8251671Z"/>
+      <path class="st1" d="M197.3044498,297.431033c-16.6059255,12.7824788-33.258648,25.5254226-50.1669174,37.8868125-19.3976792,14.1813698-38.5285678,28.7277226-58.0647875,42.7223249-3.4708009,2.4862694-6.9790619,4.9981664-9.3012754,8.96621-.0107109.0183094-.0243939.0332262-.0354132.0511991l125.7183617-91.585151c-2.9495289-.3244947-5.5384489-.0516197-8.1499682,1.9586045Z"/>
+      <path class="st1" d="M79.7360563,387.0575795l-2.2432559,1.6341939c.9359961-.3526739,1.7432654-.8187933,2.2432559-1.6341939Z"/>
+      <line class="st1" x1="346.1250523" y1="138.5285228" x2="346.1726344" y2="138.4855391"/>
+      <path class="st1" d="M327.8745305,255.4438892c1.5327209-3.0231311,3.7608918-5.9277696,4.2312452-9.3819434l-1.625614.5850606-6.7767048,17.0034056c1.392358-2.7345823,2.7835103-5.4697534,4.1710736-8.2065228Z"/>
+      <path class="st1" d="M303.681098,302.5764039c-2.2986608,3.4272564,2.9914877.7775222,2.8472834,4.1677672l17.1750754-43.0937591c-5.4216106,10.6479299-10.8874105,21.2746343-16.4765818,31.8369613-1.2331528,2.3304009-2.0509648,4.8602709-3.5457771,7.0890306Z"/>
+      <line class="st1" x1="358.9979286" y1="126.8986971" x2="362.4805619" y2="123.7523348"/>
+      <line class="st1" x1="338.0670798" y1="145.8084145" x2="338.8881162" y2="145.0666722"/>
+      <path class="st1" d="M337.6000071,231.7516529l-.5352074.2032824c.270716,1.7592195.5279453,3.5146538.5052618,5.3056135l.0299456-5.5088958Z"/>
+      <path class="st1" d="M82.3448559,402.2827832c-.1878302-4.7126115,1.3571493-9.882799-2.3170271-14.0561511-.0326663-.0371044-.0975113-.0105492-.0925923.0386405l2.6035929,26.0360402c.0046545-4.0089524-.0344599-8.0161944-.1939734-12.0185296Z"/>
+      <path class="st1" d="M82.443581,429.6128484c-.0068695,3.2849307.3248592,6.4545373,2.5375526,9.1114237l-2.4423043-24.4229593c-.0059443,5.103004-.0845655,10.208812-.0952483,15.3115356Z"/>
+      <path class="st1" d="M338.0133844,389.5609208l-16.6249911-28.7961618c-.0055237.0022151-.0109071.0040096-.0164308.0062246l.0645457,3.6795228c3.4324717,7.5282046,6.8901223,15.0416607,12.1188249,21.6022413,1.3827126,1.7349098,1.7563867,3.6559382,4.4580513,3.508173Z"/>
+      <line class="st1" x1="412.7924407" y1="72.515255" x2="412.7971232" y2="72.5136567"/>
+    </g>
+    <path class="st1" d="M397.3005025,87.428245c1.6433626-1.0563112,1.4398279-3.5021765,4.0112516-4.1921589,4.1271085-1.1074262,7.6810846-3.9801478,11.7554483-5.2455863,2.3984583-.7449243,4.6081381-.4067659,9.0963043,2.3250878,1.1747585.7150516,2.1386128,1.6876541,3.4861645,2.0412813,2.917929.7657717,5.0165039,2.5624232,6.5779647,5.0713761h-34.9271335Z"/>
+  </g>
+  <metadata>
+    <sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+      <slices/>
+      <sliceSourceBounds x="-1950.21" y="-1857.13" width="3669.88" height="3426.34" bottomLeftOrigin="true"/>
+    </sfw>
+  </metadata>
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c003 1.000000, 0000/00/00-00:00:00        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Black</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2025-08-06T00:10:53+03:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2025-08-06T00:10:53+03:00</xmp:ModifyDate>
+         <xmp:CreateDate>2025-08-06T00:10:53+03:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator 29.6 (Macintosh)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>240</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEAAAAAAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAAAAAAAEA&#xA;AQAAAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgA8AEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FWL+Z&#xA;HcaiAGIHpr0Pucoyc3Kw/SlfqSfzH7zkG6lslwY0aR5CqICzMTsANycUbJbpXmSPUbu4tkjnie3o&#xA;eUikKynoQe1e1evauTlEhhGYJqky+sfvBH6v7wgsE5fEVBAJp4b5Bns1HciRS0cvNQSpKtUclPFh&#xA;t3BFDiuyfeV2YzT1JPwr1+ZyzG05+QZDlzjOxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2Ku&#xA;xV2KuxV2KuxV2KuxV2KsW8y/8dEf8Y1/Wcoyc3Lw/SlDuqKXchVUVJPQDINrGtX1dLuMxooNoZFi&#xA;BkNBI5YfsCrsF8CAp8ctjGmmc7bB16xdrmwskvfrh4lXl+riJUA9M0fmePxNt16DoMdjzK+obgXa&#xA;AGseZ49Sj+tWsP6RvLdUsbaBZXji5yAlrmQ0UAU34/cclwxryYccr3G5/G6beU9I13To7k6tqQ1B&#xA;52V4+INEO/OldqMT2AyGSQPIU2YoSHM2zvyt/fXH+qv6zjiY5+QZFlzjOxV2KuxV2KuxV2KuxV2K&#xA;uxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KsW8y/wDHRH/GNf1nKMnNy8P0sau9Pnu7mk7j&#xA;6kB8MSkg8ttzt167127Cu+AGmRjZ8lW60+Kay+qRn0FUoYmQD4DGwZSB7FcAO9pMbFL7iwtLuJI7&#xA;2GO5C9pEDCpHEkBq0qDiDXJJiDzUxo+krxpZwjgOKUjXYVrQbY8RRwDuVLXT7G0r9Vt44OSqp9NQ&#xA;tVSvEbeFTiSSkRA5Mk8rf31x/qr+s5PE05+QZFlzjOxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2K&#xA;uxV2KuxV2KvkC9/Mfz6l5Oq6/fBVkcKBO9AAx98yeEONxFR/5WV5/wD+pgv/APke/wDXHhC8RRGn&#xA;+evzL1C7is7PW9QmuJiFjjWd9yfmdseELxFX1rzb+auiXzWOp6xqNtcKOQVp2IZT0ZGBKsu3UHER&#xA;BSSQgP8AlZXn/wD6mC//AOR7/wBceEI4i7/lZXn/AP6mC/8A+R7/ANceELxFg/5h/ml+YsGqWQh8&#xA;x36B7MM9Jm3b15RU7+AGUZIi3IxyNc2Lf8rb/M3/AKmbUP8Ake2Q4Qz4z3uH5tfmcxAHmXUCTsAJ&#xA;3qTjwheM97IPMOufn55e06y1LWNT1W1sdQANtcGcstSKhX4k8GIFQrUJG4x4QvGe9j//ACtv8zf+&#xA;pm1D/ke2PCF4z3u/5W3+Zv8A1M2of8j2x4QvGe99C/8AOHvnHzV5g1zzJHreq3Oopb21u0K3EjOF&#xA;LSOCQD40xACDInm+ocKHYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYqo3t7aWNpLd3cqwWsCl5pnNFV&#xA;R1JOKvPZvz+8gxysim8mUGgkSEcT8uTqfwyzwy1+IFP/AKGD8h/77vv+RKf9VMfDK+IHf9DB+Q/9&#xA;933/ACJT/qpj4ZXxAnXlj82/JnmO/XT7OeSC8k/uYblPTMhHZCCyk+1a4DAhImC+T7//AHuuf+Mr&#xA;/wDEjmQGhZb289zMkEEbSyyGiIoqSTirNNK0d9N0+4KOjXEhjhu3iDTSBGDO8Y9Jk4AcV5Dmr+1O&#xA;sCWQCIuvLWk+ZL59Yk8z6fY20qkGG5d3u1FqhQkxIu/JIuddq1oMbrotWm0flny5puoaRr2r6lcR&#xA;+VrKCBNOvUhkhmvJxzl/cxkmRFDHlyIpTuCcFnkmg8980PoD6/eN5eWRdHLA2izV5gcRyrVnP2q0&#xA;qemTF1uwPk8v/Mr/AI6th/zBD/qImyjJzb8fJiIBJoNyegyDN6D5H8oXVpfW2pXoiiu0R7m1tZ/i&#xA;kRYozIs31deUjNUD0+SiPl9pq7YqnWoaLp/myxttMuPM9jolxopkuL063LLbmQ3jEv6MdbmRmT0V&#xA;JTkxJeo4rQYqmT/lBpDeW59P0rzKup6dp2pNP5r16GzmSx09La3cUV5GX6ywL9IqsajiDirF/wA5&#xA;b78qby80o+QJb+49C3+r6lc3/qEyCBY4rYoZGrtGhUgIoAA+hV6p/wA4P/8AHf8ANX/MJbf8nHxV&#xA;9dYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXm/5/wA0sfkHijFVlvIUkA7rR2p96jLMfNrycnzX&#xA;l7Q7FUy0TTRdSPcTpWytqNO3xAb9F+EO3QE7L0HbqASkBlDXfl57SyvLK0a1mglje3lieMTcwxUP&#xA;IApoPUUbcunQDfI7stnn9/8A733H/GV/+JHJhinS6xp2kwGPSKTXMicXvXUhgxJDEKw2+GnEA+Na&#xA;7UjVptDQa7I+j3un3s9w5ldJrZwxbjIgZWV+TD4XV6H6D7E0i0NZalZ29uYpdLtrpzypPK04ccqU&#xA;/u5UX4abbd98aW1dtdhdYVm06CcQRmJBLJcsAKECn77bjUUA22GNLaXXU0U05kigS2QhQIYy5UFV&#xA;AJq7O3xEVO+FXn35lf8AHVsP+YIf9RE2Y+Tm34+SG0K+8t6RZR6i4F/rHMEWkissca/H9k8SrNVV&#xA;JauwNFHL4hBmqaT581NNflvtVubiWyvI54L23t3Kfup4mSkS1CqUJDL7jevdVKNP1Sysr2eWfT4d&#xA;YikPwfXjOhoHDcj9XmjIZwKN8R6mhrviqMbzTbfVJ7RNHto7WeX1vqyzXvpIwXj8KG4p9Jqdhv4q&#xA;oHV9Usb4qbbSrbTKSSOwtmuGDK/Hih9eWbaPiaU33Na7Yq+if+cH/wDjv+av+YS2/wCTj4q+usVd&#xA;irsVdirsVdirsVdirsVdirsVdirsVdirzP8A5yD/AOUDj/5jof8AiEmWY+bXk5Pm/L2hGabplzfT&#xA;BI45HXqREhdyB14qOvX/ADJAKSkBO5rC6isRHcOLMGdGs7aFhLMvoI5kJRGJV/jViXI+gUyNpUbv&#xA;UIHTT7OAVDXC3FxKVVWdwQik8fhNPi3AFepr1JpXvEn5C/l1JI0j2s5dyWY/WJOpNT3yjxC3eGFv&#xA;/Kgvy3/5ZJ/+kiT+uPiFfDDv+VBflv8A8sk//SRJ/XHxCvhh3/Kgvy3/AOWSf/pIk/rj4hXww7/l&#xA;QX5b/wDLJP8A9JEn9cfEK+GHf8qC/Lf/AJZJ/wDpIk/rj4hXwwlmq/8AOMP5S6rOk17ZXTvEgijp&#xA;dSKAgYtTY/zOTkSbZAUgv+hSfyW/6t93/wBJk39cCXf9Ck/kt/1b7v8A6TJv64q7/oUn8lv+rfd/&#xA;9Jk39cVd/wBCk/kt/wBW+7/6TJv64q7/AKFJ/Jb/AKt93/0mTf1xVl35efk35G/L+6vLny1bzQS3&#xA;6JHc+rM8wKxkstA9abnFWb4q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXmf/ADkH/wAoHH/zHQ/8&#xA;QkyzHza8nJ4BpmkSXPCWWqQO3GIAVeVh1WNaitO56DuRlxLSAjdS1KygjNjahgtAJpIJAvKn7Bfj&#xA;8a/QFrvTuUBSVaS+gi8s20lrBRBLJb3HMo5LbSqH+H4gfkv2QN+ODqnoklvNLNqUMsrF5HlQsx6k&#xA;8hkmL7TzEct2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV&#xA;iP5peXLnXvKklvawfWri2lS6jtOXD1jGGHDlQ9Q3Tv0qMlA0WMxYfM+rX+opMqTCeC5SNoGMq+iy&#xA;xFmPpKgpxX4iPltQDrkAOOUpwoRlpqk1tbvbBEkgkPKSN+VG2pQ8WX6PA7jfGk2m/kjyfrXmPXLS&#xA;Cyt3NuJFe4uypEUcasOTFqUr4DucjKVJjG31zmM5LsVdirsVdirsVdirsVdirsVdirsVdirsVdir&#xA;sVdirsVdirsVdirsVdirsVdirsVdirsVWPDDIavGrkbAsAf14qt+qWv++U/4Ef0xV31S1/3yn/Aj&#xA;+mKqioiKFRQqjoAKDFW8VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV&#xA;dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirTMqKWY0VQST7DFWK/8&#xA;rV/Lz/q+W/8Aw/8AzTkuAseMO/5Wr+Xn/V8t/wDh/wDmnHgK8Yd/ytX8vP8Aq+W//D/8048BXjDv&#xA;+Vq/l5/1fLf/AIf/AJpx4CvGHf8AK1fy8/6vlv8A8P8A8048BXjDv+Vq/l5/1fLf/h/+aceArxh3&#xA;/K1fy8/6vlv/AMP/AM048BXjDv8Alav5ef8AV8t/+H/5px4CvGHf8rV/Lz/q+W//AA//ADTjwFeM&#xA;O/5Wr+Xn/V8t/wDh/wDmnHgK8YTnQ/Mmh67DJNpF4l5FC3CR460DEVpuB2wEEJBBTLAl2KuxV2Ku&#xA;xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KqV3/vLN/qN+o4q+KMy3EdirsVdirsVdirsVdi&#xA;rsVdir3/AP5xw/5R3Vv+Ytf+TQynLzbsXJ67lTa7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYq7FVK7/3lm/1G/UcVfFGZbiOxV2KuxV2KuxV2KuxV2KuxV7//AM44f8o7q3/MWv8AyaGU&#xA;5ebdi5PXcqbXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYqpXf8AvLN/qN+o4q+K&#xA;My3EdirsVdirsVdirsVdirsVdir3/wD5xw/5R3Vv+Ytf+TQynLzbsXJ67lTa7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FVK7/3lm/1G/UcVfFGZbiOxV2KuxV2KuxV2KuxV2KuxV7/&#xA;AP8AOOH/ACjurf8AMWv/ACaGU5ebdi5PXcqbXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYqpXf+8s3+o36jir4ozLcR2KuxV2KuxV2KuxV2KuxV2Kvf/wDnHD/lHdW/5i1/5NDKcvNu&#xA;xcnruVNrsVdirsVdirsVdirsVdirsVdirsVdirsVQOuatDo+j3mqTo0kNlC88iJTkVQVIFSBXCBa&#xA;Caeaf9DG+V/+rZff8kf+a8s8IsPFDv8AoY3yv/1bL7/kj/zXj4RXxQ7/AKGN8r/9Wy+/5I/814+E&#xA;V8UO/wChjfK//Vsvv+SP/NePhFfFD0ny9rdvrmiWerW8bxQ3kYkSOSnIAmlDQkdsrIpmDaNnQyQy&#xA;IOrqVFelSKYEvn//AKFy80/9XOx++b/mjL/FDR4Rd/0Ll5p/6udj983/ADRj4oXwi7/oXLzT/wBX&#xA;Ox++b/mjHxQvhF3/AELl5p/6udj983/NGPihfCLv+hcvNP8A1c7H75v+aMfFC+EXf9C5eaf+rnY/&#xA;fN/zRj4oXwi7/oXLzT/1c7H75v8AmjHxQvhF3/QuXmn/AKudj983/NGPihfCLv8AoXLzT/1c7H75&#xA;v+aMfFC+EXf9C5eaf+rnY/fN/wA0Y+KF8IvTPyq8h6l5O0u9s764huHuZxMjQcqABAtDyVfDK5yt&#xA;shGmb5Bm7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FWO/mN/ygev8A/MDP/wAQOSjzYy5PkXMlxnYq&#xA;7FXYq+s/yt/8l9oX/MMP+JHMafNyYcmU5Fk7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FWESXl3zb9/J1P7Tf1zGsucIjua+uXf+/5P+Cb+uNlPCO531y7/wB/yf8ABN/XGyvC&#xA;O531y7/3/J/wTf1xsrwjua8wyyyflz5jMjs5FrOAWJP+6/fL8JcTUiny5ma4DsVdirsVZJ+fXmHX&#xA;9G/Kv8uX0fU7vTXmS6EzWk8kBcKIyAxjZa0r3zGnzcmHJ4N/ysj8xP8AqadX/wCk+5/6qZFk7/lZ&#xA;H5if9TTq/wD0n3P/AFUxV3/KyPzE/wCpp1f/AKT7n/qpirL/AMn/AD555vfzS8q2l55i1O5tZ9Tt&#xA;kmgmvLiSN1MgqrKzkEHwOKv0CxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KsDk/vG+&#xA;Z/XmK7ALcVdirsVZL5X/AN5Jf+Mn/Goy7HycbPzTnLGh2KuxV2KvmD/nOP8A45XlH/jPe/8AEIcV&#xA;fJWKuxV2Ks1/JT/ybnlD/tq2v/J0Yq/R/FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY&#xA;qx9vK8hYn6wNzX7J/rlXhuR4/k1/hWT/AJaB/wACf64+Enx/J3+FZP8AloH/AAJ/rj4S+P5O/wAK&#xA;yf8ALQP+BP8AXHwl8fyTTStOaxheMuJOTcqgU7UycY01ZJ8RRuSa3Yq7FXYq8s/Pf8lLj80bXR7e&#xA;HVk0r9FyTyMzwGfn6wQUADx0p6eKvIP+hG9Q/wCpwi/6QG/6r4q7/oRvUP8AqcIv+kBv+q+Ku/6E&#xA;b1D/AKnCL/pAb/qviqeeR/8AnD++8s+cNG8wt5oiul0q7hu2thZtGZBE4biG9ZqVp4Yq+lsVdirs&#xA;VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV&#xA;dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVd&#xA;irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdi&#xA;rsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir&#xA;sVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirs&#xA;VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV&#xA;dirsVdirsVdirsVdirsVdirsVQ17fxWiAuCxPQAH8aA0yJlTKMCW7O/gu0qhow+0h6jCJWsoEIjC&#xA;xdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVU551i&#xA;Ar8TsaIg6scBKQLS9v3byz3BR2LFTGdiF4j+7/z39si2eQRGl7Woqfib4+NakKfsk/MCuGPJjk5q&#xA;k+oWkIPKVS/aMEFiewoMJkECBKm91HZ6ckjblUXipIBY0HjgugkR4pIbRdSe6kmSSgI+NBXkaEmu&#xA;/gNqYIStlkhSa5NqdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV&#xA;ULq7jgXfdz9lB1wE0yjG0EqyScrmWSRBx2WNDyI6/boafR9+R82fLZbZQyTIpCBY2qWapJPiSxHx&#xA;GvTcge+ABMjSIu9JtLh1aR3QBQvBWopA6VGSMQWMchC2HTbS0jkljhR5k5NF1rt9kVYtv74BEBTM&#xA;lQhtZ71lOoQpHBCtIog25JpuSD7YAL5sjIR+lMYLW0gqII0QnYlQK/SeuTAAazInmrYWLsVdirsV&#xA;dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVUriSRFAjWrN0ahIHuab4CUgIWC&#xA;y9XjJNU71flsZG8T4KOy5EBmZVyR+Ta0NZwzQAxED0qkoa7iprT5ZECmUiCiGRW6ivb78kxtb6EV&#xA;a8dz13OCk270oyKU2+Zw0ttrGimoG+K2uxQ7FXYq7FXYq7FX/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:62789210-39b7-441d-8ea5-19134c336772</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:62789210-39b7-441d-8ea5-19134c336772</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:9472ffcf-eb92-2148-9b4d-ae3fd5c98feb</stRef:instanceID>
+            <stRef:documentID>xmp.did:bcb7ca46-d4e0-4c85-8303-7d0589dfa20e</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D27F11740720681191099C3B601C4548</stEvt:instanceID>
+                  <stEvt:when>2008-04-17T14:19:15+05:30</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F1174072068118D4ED246B3ADB1C6</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T16:23:06-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FA7F1174072068118D4ED246B3ADB1C6</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T17:10:45-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:EF7F117407206811A46CA4519D24356B</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T22:53:33-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F07F117407206811A46CA4519D24356B</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T23:07:07-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T10:35:43-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T10:40:59-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FA7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:26:55-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FB7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:29:01-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FC7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:29:20-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FD7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:30:54-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FE7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:31:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:B233668C16206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T12:23:46-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:B333668C16206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T13:27:54-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:B433668C16206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T13:46:13-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F11740720681197C1BF14D1759E83</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T15:47:57-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F11740720681197C1BF14D1759E83</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T15:51:06-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F11740720681197C1BF14D1759E83</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T15:52:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FA7F117407206811B628E3BF27C8C41B</stEvt:instanceID>
+                  <stEvt:when>2008-05-22T13:28:01-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FF7F117407206811B628E3BF27C8C41B</stEvt:instanceID>
+                  <stEvt:when>2008-05-22T16:23:53-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:07C3BD25102DDD1181B594070CEB88D9</stEvt:instanceID>
+                  <stEvt:when>2008-05-28T16:45:26-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F1174072068119098B097FDA39BEF</stEvt:instanceID>
+                  <stEvt:when>2008-06-02T13:25:25-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811BB1DBF8F242B6F84</stEvt:instanceID>
+                  <stEvt:when>2008-06-09T14:58:36-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F117407206811ACAFB8DA80854E76</stEvt:instanceID>
+                  <stEvt:when>2008-06-11T14:31:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0180117407206811834383CD3A8D2303</stEvt:instanceID>
+                  <stEvt:when>2008-06-11T22:37:35-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811818C85DF6A1A75C3</stEvt:instanceID>
+                  <stEvt:when>2008-06-27T14:40:42-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0580117407206811910989C2A6325BB5</stEvt:instanceID>
+                  <stEvt:when>2009-11-26T17:25:36+05:30</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:62789210-39b7-441d-8ea5-19134c336772</stEvt:instanceID>
+                  <stEvt:when>2025-08-06T00:10:53+03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 29.6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <illustrator:CreatorSubTool>Adobe Illustrator</illustrator:CreatorSubTool>
+         <illustrator:IsFileSavedViaInstantSave>False</illustrator:IsFileSavedViaInstantSave>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>501.000000</stDim:w>
+            <stDim:h>501.000000</stDim:h>
+            <stDim:unit>Pixels</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Zaatar-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Zaatar-Regular</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>Version 0.20</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Boharat-Zataar_Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Optima-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Optima</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>13.0d1e2</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Optima.ttc</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=76 M=55 Y=44 K=21</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:red>70</xmpG:red>
+                           <xmpG:green>93</xmpG:green>
+                           <xmpG:blue>107</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=7 M=22 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:red>233</xmpG:red>
+                           <xmpG:green>200</xmpG:green>
+                           <xmpG:blue>190</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 17.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+  </metadata>
+</svg>
